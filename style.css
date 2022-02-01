@@ -1,0 +1,81 @@
+
+body{
+    font-size: 16pt;
+    font-family: 'Arial', sans-serif;
+    background-image: url("andrea-de-santis-zwd435-ewb4-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    /*background-attachment: fixed;*/
+    color: white;
+    
+}
+#headshot{
+    float: left;
+    border-image: 0px;
+    margin-top: 15%;
+    height: 8cm;
+    width:2;
+    padding:0%;
+    border-width: 0ch;
+    margin: 0%;
+}
+#about_me{
+    margin-top:0%;
+    margin-left: 0%;
+    
+}
+#name{
+    margin-left:0;
+    border: 0cm;
+    margin-bottom: 0;
+    font-style: italic;
+    font-size: 9pt;
+}
+title{
+    margin-left: 10%;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+p{
+    text-indent: 2cm;
+    line-height: 2;
+}
+.Benny{
+    width:95%;
+    height: 65%;
+}
+#second{
+    margin-top: 0%;
+}
+table{
+    align-self: center;
+    text-align: center;
+    margin-left: 30%;
+    height: 300;
+    width: 300;
+}
+#even{
+    background-color: black;
+}
+#odd{
+    background-color: aliceblue;
+    color: black;
+}
+pre{
+    font-family: 'Arial';
+    font-style: italic;
+    font-size: 16pt;
+    text-align: right;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: darkblue;
+}
+span{
+    font-weight: bold;
+    color:red
+}
