@@ -4,8 +4,8 @@ body{
     font-family: 'Arial', sans-serif;
     background-image: url("andrea-de-santis-zwd435-ewb4-unsplash.jpg");
     background-repeat: no-repeat;
-    background-size: 110%;
-    /*background-attachment: fixed;*/
+    background-size: 130%;
+    background-attachment:inherit;
     color: white;
     
 }
@@ -18,6 +18,7 @@ body{
     padding:0%;
     border-width: 0ch;
     margin: 0%;
+    position: relative;
 }
 #about_me{
     margin-top:0%;
@@ -52,9 +53,9 @@ p{
 table{
     align-self: center;
     text-align: center;
+    align: center;
     margin-left: 30%;
-    height: 300;
-    width: 300;
+    padding: 0%;
 }
 #even{
     background-color: black;
